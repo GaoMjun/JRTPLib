@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/JRTPLib-for-Android"]
+	path = app/src/main/cpp/JRTPLib-for-Android
+	url = https://github.com/GaoMjun/JRTPLib-for-Android.git
